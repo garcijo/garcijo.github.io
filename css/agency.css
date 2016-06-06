@@ -97,7 +97,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .navbar-default .navbar-brand{
     color:#52edc7;
-    font-family:"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
+    font-family:"Handlee",cursive;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{
     color:#4ad7b4
@@ -144,7 +144,7 @@ h1,h2,h3,h4,h5,h6{
         border:0
     }
     .navbar-default .navbar-brand{
-        font-size:2em;
+        font-size:3em;
         -webkit-transition:all .3s;
         -moz-transition:all .3s;
         transition:all .3s
