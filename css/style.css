@@ -1972,10 +1972,10 @@ border:none;
 	  margin-top: 40px;
 	} 
 	.skills-grid {
-	  width: 33.3% !important;
+	  width: 25% !important;
 	  float: left;
 	} 
-	.skills-grid:nth-child(1) ,.skills-grid:nth-child(2) ,.skills-grid:nth-child(3)  {
+	.skills-grid:nth-child(1) ,.skills-grid:nth-child(2) ,.skills-grid:nth-child(3) ,.skills-grid:nth-child(4)  {
 	margin-bottom:30px;
 	}
 	.about ul li {
